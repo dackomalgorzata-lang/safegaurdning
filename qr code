@@ -1,0 +1,4 @@
+npm install qrcode.react
+import QRCode from "qrcode.react";
+
+<QRCode value={enrolmentLink} size={128} />
