@@ -1,1 +1,2 @@
 const SECRET = "supersecret";
+SECRET=your_long_secret_key
